@@ -1,6 +1,6 @@
 # CFIN
 
-This repository is an official PyTorch implementation of our paper "Cross-receptive Focused Inference Network for Lightweight Image Super-Resolution". 
+This repository is an official PyTorch implementation of our paper "Cross-receptive Focused Inference Network for Lightweight Image Super-Resolution". Accepted by IEEE TRANSACTIONS ON MULTIMEDIA, 2022.
 
 ## Prerequisites:
 ```
