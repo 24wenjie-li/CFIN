@@ -90,6 +90,9 @@ CFIN        |x2|675K|116.9G|38.14/0.9610|33.80/0.9199|32.26/0.9006|32.48/0.9311|
 CFIN        |x3|681K|53.5G|34.65/0.9289|30.45/0.8443|29.18/0.8071|28.49/0.8583|33.89/0.9464
 CFIN        |x4|699K|31.2G|32.49/0.8985|28.74/0.7849|27.68/0.7396|26.39/0.7946|30.73/0.9124
 
+## Some extra questions
+You can download the supplementary materials on reviewer issues from <a href="">here</a>.
+
 ## Acknowledgements
 This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and [DRN](https://github.com/guoyongcs/DRN). We thank the authors for sharing their codes.
 
