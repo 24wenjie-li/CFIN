@@ -26,10 +26,10 @@ The code and datasets need satisfy the following structures:
 ```
 ├── CFIN  					# Train / Test Code
 ├── dataset  					# all datasets for this code
-|  └── DIV2K_decoded  					#  train datasets with npy format
+|  └── DIV2K_decoded  		#  train datasets with npy format
 |  |  └── DIV2K_train_HR  		
 |  |  └── DIV2K_train_LR_bicubic 			
-|  └── benchmark  					#  test datasets with png format 
+|  └── benchmark  		#  test datasets with png format 
 |  |  └── Set5
 |  |  └── Set14
 |  |  └── B100
