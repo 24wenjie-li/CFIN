@@ -24,10 +24,10 @@ Extract the file and place it in the same location as args.data_dir in option.py
 ```
 ├── CFIN  					  # Code
 ├── dataset  					# all datasets for this code
-|  └── DIV2K_decoded 				#  train datasets
+|  └── DIV2K_decoded 				#  train datasets with npy format
 |  |  └── DIV2K_train_HR  		
 |  |  └── DIV2K_train_LR_bicubic 			
-|  └── benchmark 					  #  test datasets 
+|  └── benchmark 				#  test datasets with png format 
 |  |  └── Set5
 |  |  └── Set14
 |  |  └── B100
