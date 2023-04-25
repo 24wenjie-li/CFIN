@@ -3,6 +3,7 @@
 This repository is an official PyTorch implementation of our paper "Cross-receptive Focused Inference Network for Lightweight Image Super-Resolution". 
 
 ## Prerequisites:
+```
 1. Python >= 3.6
 2. PyTorch >= 1.2
 3. numpy
@@ -11,6 +12,7 @@ This repository is an official PyTorch implementation of our paper "Cross-recept
 6. tqdm
 7. timm
 8. einops
+```
 
 ## Dataset
 We used only DIV2K dataset to train our model. To speed up the data reading during training, we converted the format of the images within the dataset from png to npy. Please download the DIV2K_decoded with npy format from <a href="https://data.vision.ee.ethz.ch/cvl/DIV2K/">here</a>.[Baidu Netdisk][Password:8888]
