@@ -22,8 +22,9 @@ The test set contains five datasets, Set5, Set14, B100, Urban100, Manga109. The 
 
 Extract the file and place it in the same location as args.data_dir in option.py.
 
+The code and datasets need satisfy the following structures:
 ```
-├── CFIN  					  # Code
+├── CFIN  					# Code
 ├── dataset  					# all datasets for this code
 |  └── DIV2K_decoded 				#  train datasets with npy format
 |  |  └── DIV2K_train_HR  		
