@@ -46,15 +46,27 @@ All pretrained model can be found in .
 We will release this code soon!
 
 ## Training
+Note：
 ```
   # CFIN x2  LR: 48 * 48  HR: 96 * 96
-  python main.py
+  python main.py --scale 2 --model CFINx2 --patch_size 96 --save experiments/CFINx2
   
   # CFIN x3  LR: 48 * 48  HR: 144 * 144
-  python main.py
+  python main.py --scale 3 --model CFINx3 --patch_size 144 --save experiments/CFINx3
   
   # CFIN x4  LR: 48 * 48  HR: 192 * 192
-  python main.py
+  python main.py --scale 4 --model CFINx4 --patch_size 192 --save experiments/CFINx4
 ```
 
 ## Testing
+Since the PSNR/SSIM values in our paper are obtained from the Matlab program, the data obtained using the python code may have a floating error of 0.01 dB in the PSNR.
+```
+# CFIN x2
+python main.py --scale 2 --model CFINx2 --save test_results/CFINx2 --pre_train experiments/CFIN/model/model_best_x2.pt --test_only --save_results --data_test Set5
+
+# CFIN x3
+python main.py --scale 3 --model CFINx3 --save test_results/CFINx3 --pre_train experiments/CFIN/model/model_best_x3.pt --test_only --save_results --data_test Set5
+
+# CFIN x4
+python main.py --scale 4 --model CFINx4 --save test_results/CFINx4 --pre_train experiments/CFIN/model/model_best_x4.pt --test_only --save_results --data_test Set5
+```
