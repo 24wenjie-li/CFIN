@@ -35,7 +35,7 @@ The code and datasets need satisfy the following structures:
 |  |  └── B100
 |  |  └── Urban100
 |  |  └── Manga109
-──────────────────
+ ─────────────────
 ```
 
 
