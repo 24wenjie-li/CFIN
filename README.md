@@ -49,13 +49,13 @@ We will release this code soon!
 ## Training
 Note：
 ```
-  # CFIN x2  LR: 48 * 48  HR: 96 * 96
+  # CFIN x2
   python main.py --scale 2 --model CFINx2 --patch_size 96 --save experiments/CFINx2
   
-  # CFIN x3  LR: 48 * 48  HR: 144 * 144
+  # CFIN x3
   python main.py --scale 3 --model CFINx3 --patch_size 144 --save experiments/CFINx3
   
-  # CFIN x4  LR: 48 * 48  HR: 192 * 192
+  # CFIN x4
   python main.py --scale 4 --model CFINx4 --patch_size 192 --save experiments/CFINx4
 ```
 
