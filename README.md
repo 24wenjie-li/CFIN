@@ -21,6 +21,20 @@ The test set contains five datasets, Set5, Set14, B100, Urban100, Manga109. The 
 
 Extract the file and place it in the same location as args.data_dir in option.py.
 
+```
+├── dataset  					# all datasets for this code
+|  └── DIV2K_decoded 				#  train datasets
+|  |  └── DIV2K_train_HR  		
+|  |  └── DIV2K_train_LR_bicubic 			
+|  └── benchmark 					  #  test datasets 
+|  |  └── Set5
+|  |  └── Set14
+|  |  └── B100
+|  |  └── Urban100
+|  |  └── Manga109
+```
+
+
 ## Results
 All our SR Results can be downloaded from <a href="https://pan.baidu.com/s/1QVku7exoRGRNNwKeWUThAw">here</a>.[Baidu Netdisk][Password:8888]
 
