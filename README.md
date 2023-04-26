@@ -42,7 +42,7 @@ The code and datasets need satisfy the following structures:
 ## Results
 All our SR Results can be downloaded from <a href="https://pan.baidu.com/s/1QVku7exoRGRNNwKeWUThAw">here</a>.[Baidu Netdisk][Password:8888]
 
-All pretrained model can be found in .
+All pretrained model can be found in <a href="https://github.com/24wenjie-li/CFIN/tree/main/experiments/CFIN/model">experiments/CFIN/model/</a>.
 
 We will release this code soon!
 
