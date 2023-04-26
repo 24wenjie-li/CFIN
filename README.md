@@ -56,6 +56,8 @@ Note：You need to manually import the name of the model to be trained in line 3
   # CFIN x4
   python main.py --scale 4 --model CFINx4 --patch_size 192 --save experiments/CFINx4
 ```
+**Somethings you need to know** 
+Since the training/testing code we provide is the initial code, the module names within the code are not consistent with those within the paper. For this reason, we provide <a href="https://github.com/24wenjie-li/CFIN/blob/main/model/CFIN.py">model/CFIN.py</a> to help readers understand the paper better.
 
 ## Testing
 Since the PSNR/SSIM values in our paper are obtained from the Matlab program, the data obtained using the python code may have a floating error of 0.01 dB in the PSNR. The following PSNR/SSIMs are evaluated on Matlab R2017a and the code can be referred to <a href="https://github.com/24wenjie-li/FDIWN/blob/main/FDIWN_TestCode/Evaluate_PSNR_SSIM.m">here</a>.(You need to modify the test path!)
