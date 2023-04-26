@@ -56,7 +56,7 @@ Note：You need to manually import the name of the model to be trained in line 3
   # CFIN x4
   python main.py --scale 4 --model CFINx4 --patch_size 192 --save experiments/CFINx4
 ```
-**Somethings you need to know: ** 
+**Somethings you need to know:** 
 Since the training/testing code we provide is the initial code, the module names within the code are not consistent with those within the paper. For this reason, we provide <a href="https://github.com/24wenjie-li/CFIN/blob/main/model/CFIN.py">model/CFIN.py</a> to help readers understand the paper better.
 
 ## Testing
