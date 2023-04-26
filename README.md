@@ -84,7 +84,8 @@ python main.py --scale 4 --model CFINx4 --save test_results/CFINx4 --pre_train e
 ## Test Parmas and Mutii-adds
 Note：You need to install torchsummaryX!
 ```
-python test_summary.py # Default test x4
+# Default test CFINx4
+python test_summary.py
 ```
 
 ## Performance
