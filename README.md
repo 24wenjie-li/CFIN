@@ -47,7 +47,7 @@ All pretrained model can be found in .
 We will release this code soon!
 
 ## Training
-Note：<a href="https://github.com/24wenjie-li/CFIN/blob/main/model/__init__.py">model/init.py</a>.
+Note：You need to manually import the name of the model to be trained in line 37 of <a href="https://github.com/24wenjie-li/CFIN/blob/main/model/__init__.py">model/init.py</a>.
 ```
   # CFIN x2
   python main.py --scale 2 --model CFINx2 --patch_size 96 --save experiments/CFINx2
