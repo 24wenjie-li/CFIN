@@ -109,7 +109,7 @@ CFIN        |x3|681K|53.5G|34.65/0.9289|30.45/0.8443|29.18/0.8071|28.49/0.8583|3
 CFIN        |x4|699K|31.2G|32.49/0.8985|28.74/0.7849|27.68/0.7396|26.39/0.7946|30.73/0.9124
 
 ## Some extra questions
-You can download the supplementary materials on issues requested by reviewers from <a href="">here</a>.
+You can download the supplementary materials on issues requested by reviewers from <a href="https://pan.baidu.com/s/1zXLScHYA3jCkKQ-MuKZxXw">here</a>.[Baidu Netdisk][Password:8888]
 
 ## Acknowledgements
 This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and [DRN](https://github.com/guoyongcs/DRN). We thank the authors for sharing their codes.
