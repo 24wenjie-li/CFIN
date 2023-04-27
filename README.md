@@ -119,5 +119,10 @@ This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTor
 If you use any part of this code in your research, please cite our paper:
 
 ```
-
+@article{li2022cross,
+  title={Cross-receptive Focused Inference Network for Lightweight Image Super-Resolution},
+  author={Li, Wenjie and Li, Juncheng and Gao, Guangwei and Zhou, Jiantao and Yang, Jian and Qi, Guo-Jun},
+  journal={arXiv preprint arXiv:2207.02796},
+  year={2022}
+}
 ```
