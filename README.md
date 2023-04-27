@@ -3,7 +3,7 @@ This repository is an official PyTorch implementation of our paper "Cross-recept
 
 ---
 
-### CFIN: Cross-receptive Focused Inference Network for Lightweight Image Super-Resolution. (IEEE TRANSACTIONS ON MULTIMEDIA, 2023.)
+### CFIN: Cross-receptive Focused Inference Network for Lightweight Image Super-Resolution. (IEEE TRANSACTIONS ON MULTIMEDIA, 2023)
 
 > [[Paper](https://arxiv.org/abs/2207.02796)] &emsp; [[Code](https://github.com/24wenjie-li/CFIN)] &emsp;
 
