@@ -114,9 +114,8 @@ You can download the supplementary materials on issues requested by reviewers fr
 ## Acknowledgements
 This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and [DRN](https://github.com/guoyongcs/DRN). We thank the authors for sharing their codes.
 
-## Citation
 
-If you use any part of this code in your research, please cite our paper:
+## :clipboard: Citation
 
 ```
 @article{li2022cross,
@@ -126,3 +125,7 @@ If you use any part of this code in your research, please cite our paper:
   year={2022}
 }
 ```
+
+## :e-mail: Contact
+
+If you have any question, please email `lewj2408@gmail.com`.
