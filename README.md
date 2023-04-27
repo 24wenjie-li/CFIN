@@ -128,4 +128,4 @@ This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTor
 
 ## :e-mail: Contact
 
-If you have any question, please email `lewj2408@gmail.com`.
+If you have any question, please email `lewj2408@gmail.com`
