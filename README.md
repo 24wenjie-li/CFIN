@@ -81,10 +81,10 @@ python main.py --scale 3 --model CFINx3 --save test_results/CFINx3 --pre_train e
 python main.py --scale 4 --model CFINx4 --save test_results/CFINx4 --pre_train experiments/CFIN/model/model_best_x4.pt --test_only --save_results --chop --self_ensemble --data_test Set5
 ```
 
-## Test Parmas and Mutii-adds
+## Test Parmas and Muti-adds
 Note：You need to install torchsummaryX!
 ```
-# Default test CFINx4
+# Default CFINx4
 python test_summary.py
 ```
 
